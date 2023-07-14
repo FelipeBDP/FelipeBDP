@@ -24,7 +24,9 @@ Seja bem vindo, me chamo Felipe Bernardo de Paula e neste espaço vou falar um p
 
 ### Banco de Dados
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</div>
 
 #### Contatos:
 
