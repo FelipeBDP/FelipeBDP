@@ -5,7 +5,8 @@
 Seja bem vindo, me chamo Felipe Bernardo de Paula e neste espaço vou falar um pouco sobre o que conheço no universo da computação. Tenho formação técnica em telecomunicações e suporte e manutenção em computadores, essas formações foram feitas entre 2009 até 2012. Seguindo minha evolução no estudos, me formei em engenharia da computação no final de 2018. Minha trajetório profissional começou num programa de jovem aprendiz em 2012, eu tinha sido contratado para trabalhar na área de suporte na empresa de telecomunicações Orange Business Service. Em 2014 eu troco de emprego, começo a trabalhar na Fábrica de Telas São Jorge na área de suporte até junho de 2019. Ainda em Junho de 2019, comecei a trabalhar como pesquisador bolsista no LNCC (Laboratório Nacional de Computação Científica). Minha linha de pesquisa era na área de Inteligência Artificial, mas devido a problemas com financiamento de pesquisas, tive minha pesquisa encerrada em agosto de 2021. Em setembro do mesmo ano, através da DIO, começo como tech analyst (desenvolvedor Java Junior) no Banco Inter  na área de Chatbot. Ataulmente continuo trabalhando com Java e Chatbot, mas estou na equipe que faz integrações com o Whatsapp. 
 
 ### Certificações
-AWS Cloud Practitioner
+
+AWS Certified Cloud Practitioner (para verificar o certificado use esse número:Q3TVJ08C7JV1QP9H e esse site https://aws.amazon.com/verification)
 
 ### Tecnologias e Ferramentas
 
